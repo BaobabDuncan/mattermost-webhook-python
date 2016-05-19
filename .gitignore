@@ -1,2 +1,10 @@
+# ide
 .idea/
+
+# build
+build/
+dist/
+matterweb.egg-info/
+
+# dev
 .pyc
